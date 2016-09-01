@@ -36,7 +36,7 @@ the new syntax.
 
 As you've probably noticed, we've gradually been putting the onus on you to mess around with new technologies with limited support from us. Why? Because you already have the foundation to learn everything you need to know about web development.
 
-ES6 was released last summer, when I was about halfway through my time as a student in WDI. It wasn't part of the curriculum at the time. But did that mean I didn't have to learn it? Of course not. Your learning in web development only starts with WDI, but it'll continue throughout your careers.
+ES6 was released last summer, when I was about halfway through my time as a student in WDI. It wasn't part of the curriculum at the time. But did that mean I don't have to learn it? Of course not. Your learning in web development only starts with WDI, but it'll continue throughout your careers.
 
 You'll be leaving us in a few weeks. We're going to miss you—seriously, you guys have been the best. But while we still have you, we want you to be prepared to learn new things without any help from us as you'll be expected to do when you join the workforce. We also want you to be able to talk about what you've learned.
 

@@ -34,7 +34,7 @@ the new syntax.
 
 ### Teach Yourself (& the Class)
 
-As you've probably noticed, we've gradually been putting the onus on you to mess around with new technologies with limited support from us. Why? Because you've already have the foundation to learn everything you need to know about web development.
+As you've probably noticed, we've gradually been putting the onus on you to mess around with new technologies with limited support from us. Why? Because you already have the foundation to learn everything you need to know about web development.
 
 ES6 was released last summer, when I was about halfway through my time as a student in WDI. It wasn't part of the curriculum at the time. But did that mean I didn't have to learn it? Of course not. Your learning in web development only starts with WDI, but it'll continue throughout your careers.
 
@@ -70,6 +70,6 @@ You'll break up into four groups to research, implement and provide presentation
 - Create one lesson plan repo for all the concepts your group has been assigned.
 - For each concept, provide two demos showcasing the ES6 implementations.
 - Create one example of how the feature would have been implemented in ES5.
-- Present your group's findings to the class. Be prepared to talk about the concepts and demonstrate your implementations. Each group will have 10 minutes to present. Plan to have three minutes at the end for questions. All group members must speak. 
+- Present your group's findings to the class. Be prepared to talk about the concepts and demonstrate your implementations. Each group will have 10 minutes to present. Plan to have three minutes at the end for questions. All group members must speak.
 
 You have until 11:30 to work. We'll then reconvene in the classroom for presentations. This repo will be updated with your lessons plans.

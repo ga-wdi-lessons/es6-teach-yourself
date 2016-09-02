@@ -54,14 +54,14 @@ You'll break up into four groups to research, implement and provide presentation
 #### Group 2
 - Arrow Functions
 - Default Parameters
-- Concise properties and methods
+- Shortening properties and methods 
 
 #### Group3:
 - Getters and Setters
 - Template literals
 
 #### Group 4:
-- Classes
+- Classes (constructors, prototypes)
 - Spread
 
 

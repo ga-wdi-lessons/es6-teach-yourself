@@ -51,19 +51,26 @@ You'll break up into four groups to research, implement and provide presentation
 - Modules
 - Destructuring
 
+https://github.com/mfournier91/es6Presentation
+
 #### Group 2
 - Arrow Functions
 - Default Parameters
-- Shortening properties and methods 
+- Shortening properties and methods
+
+https://github.com/brizzi10/ES6-Demo
 
 #### Group3:
 - Getters and Setters
 - Template literals
 
+https://github.com/megancoyle/es6-lesson
+
 #### Group 4:
 - Classes (constructors, prototypes)
 - Spread
 
+https://github.com/EvanSanderson/ClassesES6/blob/master/README.md
 
 ### Deliverables
 
@@ -73,3 +80,5 @@ You'll break up into four groups to research, implement and provide presentation
 - Present your group's findings to the class. Be prepared to talk about the concepts and demonstrate your implementations. Each group will have 10 minutes to present. Plan to have three minutes at the end for questions. All group members must speak.
 
 You have until 11:30 to work. We'll then reconvene in the classroom for presentations. This repo will be updated with your lessons plans.
+
+WDI Lesson: https://github.com/ga-wdi-lessons/es6/blob/master/readme.md
